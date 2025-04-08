@@ -12,7 +12,7 @@ This project implements a simple neural network **from scratch using NumPy**, tr
   - Model evaluation
 
 ## 📊 Results
-Achieved over **90% accuracy** on the MNIST test set using:
+Achieved over **70% accuracy** on the MNIST test set using:
 - 1 hidden layer
 - ReLU activation
 - Manual vectorized training loop
