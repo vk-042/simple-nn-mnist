@@ -34,3 +34,24 @@ cd simple-nn-mnist
 pip install numpy
 jupyter notebook "Simple Neural Network.ipynb"
 
+## 📌 Output Snapshot
+
+The test accuracy across 10 epochs:
+
+epoch= 0 → accuracy: 79.74%
+epoch= 1 → accuracy: 79.81%
+epoch= 2 → accuracy: 79.82%
+epoch= 3 → accuracy: 79.85%
+epoch= 4 → accuracy: 79.88%
+epoch= 5 → accuracy: 79.85%
+epoch= 6 → accuracy: 79.81%
+epoch= 7 → accuracy: 79.84%
+epoch= 8 → accuracy: 79.89%
+epoch= 9 → accuracy: 79.88%
+
+
+This model was trained using only **NumPy** with manual forward propagation and weight updates.
+
+
+
+
